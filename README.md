@@ -1,12 +1,5 @@
 # 🚀 Tender Management System (Java Web Project)
 
-**Live Project:**  
-http://ec2-13-233-71-174.ap-south-1.compute.amazonaws.com:8080/tendermanagement/
-
-**Local Setup Videos:**  
-- https://www.youtube.com/watch?v=7CE3aY4e644  
-- https://youtu.be/mLFPodZO8Iw  
-
 ---
 
 ## 🔐 Demo Login Credentials
@@ -14,7 +7,7 @@ http://ec2-13-233-71-174.ap-south-1.compute.amazonaws.com:8080/tendermanagement/
 | Role   | Username           | Password |
 |--------|--------------------|----------|
 | Admin  | Admin              | Admin    |
-| Vendor | shashi@gmail.com   | shashi   |
+| Vendor | mishraanurag66031@gmail.com   | anurag   |
 
 ---
 
