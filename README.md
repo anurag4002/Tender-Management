@@ -9,7 +9,6 @@
 | Admin  | Admin              | Admin    |
 | Vendor | mishraanurag66031@gmail.com   | anurag   |
 
----
 
 ## 📅 Project Last Updated  
 **september 2025**
@@ -41,7 +40,6 @@ The company then selects the **most suitable bid** and places the order.
 - Check Bid Status  
 - View Bid History  
 
----
 
 ## 🛠️ Technologies Used
 
