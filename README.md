@@ -13,7 +13,7 @@
 ## 📅 Project Last Updated  
 **september 2025**
 
------------
+-----------------
 
 ## 📖 Project Description
 
@@ -22,7 +22,7 @@ The company maintains a list of **empaneled vendors**.
 Only empaneled vendors can bid, and each vendor can bid **only once** per tender.  
 The company then selects the **most suitable bid** and places the order.
 
----
+-----------------------
 
 ## 👥 User Roles
 
@@ -56,7 +56,7 @@ The company then selects the **most suitable bid** and places the order.
 - JSP  
 - MySQL  
 
----
+--------------------------------------------------
 
 ## 💻 Software & Tools Required
 - Java JDK 8+  
@@ -65,7 +65,7 @@ The company then selects the **most suitable bid** and places the order.
 - MySQL  
 - Tomcat v8.0  
 
----
+-------------------------------------------------------------------------------
 
 ## 🗄️ Database Setup (MySQL)
 
